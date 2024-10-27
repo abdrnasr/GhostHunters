@@ -1,9 +1,8 @@
 # Tools:
-The game was made with Libgdx framework, which is a java graphics/game framework.
+The game was developed using the Libgdx framework, a Java-based graphics and game development library.
 
-# Purpose
-This game was developed for the computer networks course - EE 305.
+# Purpose:
+This project was created for the Computer Networks course (EE 305).
 
-# Other
-The game is not fully completed there was only 1 month to finish the game.
-Feel free to use this project.
+# Additional Notes:
+The game is playable but incomplete as there was only a one-month development timeline.
